@@ -92,9 +92,9 @@ body{
         background:url("./img/mob.jpg")no-repeat;
         background-position: center;
         background-size: cover;
-        background-attachment: fixed;
         justify-content: center;
         align-items: center;
+        padding: 10px;
     
     }
     .con{
